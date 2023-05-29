@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Dahal</h1>
-<h3 align="center">A passionate PHP developer with 2+ years of experience</h3>
+<h3 align="center">A passionate web developer with 2+ years of experience</h3>
 
 - 🔭 I’m currently working on **House MarketPlace**
 
