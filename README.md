@@ -1,3 +1,4 @@
+![1 1](https://github.com/Saurav-Dahal/Saurav-Dahal/assets/59647255/13c915b0-857c-4bde-80af-1656682720a6)
 <h1 align="center">Hi 👋, I'm Saurav Dahal</h1>
 <h3 align="center">A passionate web developer with 2+ years of experience</h3>
 
